@@ -1,0 +1,375 @@
+ID;Genˆro;Idade;Ocupa‡Æo;Dura‡Æo do Sono;Qualidade do Sono;N¡vel de Atividade F¡sica;N¡vel de Stress;IMC ;PressÆo arterial;Frequˆncia Card¡aca;Passos Di rios;Transtorno do Sono
+1;Masculino;27;Engenheiro(a) de Software;6.1;6;42;6;Sobrepeso;126/83;77;4200;Nenhum
+2;Masculino;28;Doutor;6.2;6;60;8;Normal;125/80;75;10000;Nenhum
+3;Masculino;28;Doutor;6.2;6;60;8;Normal;125/80;75;10000;Nenhum
+4;Masculino;28;Representante de Vendas;5.9;4;30;8;Obeso;140/90;85;3000;Apn‚ia do Sono
+5;Masculino;28;Representante de Vendas;5.9;4;30;8;Obeso;140/90;85;3000;Apn‚ia do Sono
+6;Masculino;28;Engenheiro(a) de Software;5.9;4;30;8;Obeso;140/90;85;3000;Ins“nia
+7;Masculino;29;Professor(a);6.3;6;40;7;Obeso;140/90;82;3500;Ins“nia
+8;Masculino;29;Doutor;7.8;7;75;6;Normal;120/80;70;8000;Nenhum
+9;Masculino;29;Doutor;7.8;7;75;6;Normal;120/80;70;8000;Nenhum
+10;Masculino;29;Doutor;7.8;7;75;6;Normal;120/80;70;8000;Nenhum
+11;Masculino;29;Doutor;6.1;6;30;8;Normal;120/80;70;8000;Nenhum
+12;Masculino;29;Doutor;7.8;7;75;6;Normal;120/80;70;8000;Nenhum
+13;Masculino;29;Doutor;6.1;6;30;8;Normal;120/80;70;8000;Nenhum
+14;Masculino;29;Doutor;6;6;30;8;Normal;120/80;70;8000;Nenhum
+15;Masculino;29;Doutor;6;6;30;8;Normal;120/80;70;8000;Nenhum
+16;Masculino;29;Doutor;6;6;30;8;Normal;120/80;70;8000;Nenhum
+17;Feminino;29;Enfermeiro(a);6.5;5;40;7;Normal;132/87;80;4000;Apn‚ia do Sono
+18;Masculino;29;Doutor;6;6;30;8;Normal;120/80;70;8000;Apn‚ia do Sono
+19;Feminino;29;Enfermeiro(a);6.5;5;40;7;Normal;132/87;80;4000;Ins“nia
+20;Masculino;30;Doutor;7.6;7;75;6;Normal;120/80;70;8000;Nenhum
+21;Masculino;30;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+22;Masculino;30;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+23;Masculino;30;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+24;Masculino;30;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+25;Masculino;30;Doutor;7.8;7;75;6;Normal;120/80;70;8000;Nenhum
+26;Masculino;30;Doutor;7.9;7;75;6;Normal;120/80;70;8000;Nenhum
+27;Masculino;30;Doutor;7.8;7;75;6;Normal;120/80;70;8000;Nenhum
+28;Masculino;30;Doutor;7.9;7;75;6;Normal;120/80;70;8000;Nenhum
+29;Masculino;30;Doutor;7.9;7;75;6;Normal;120/80;70;8000;Nenhum
+30;Masculino;30;Doutor;7.9;7;75;6;Normal;120/80;70;8000;Nenhum
+31;Feminino;30;Enfermeiro(a);6.4;5;35;7;Normal;130/86;78;4100;Apn‚ia do Sono
+32;Feminino;30;Enfermeiro(a);6.4;5;35;7;Normal;130/86;78;4100;Ins“nia
+33;Feminino;31;Enfermeiro(a);7.9;8;75;4;Normal;117/76;69;6800;Nenhum
+34;Masculino;31;Doutor;6.1;6;30;8;Normal;125/80;72;5000;Nenhum
+35;Masculino;31;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+36;Masculino;31;Doutor;6.1;6;30;8;Normal;125/80;72;5000;Nenhum
+37;Masculino;31;Doutor;6.1;6;30;8;Normal;125/80;72;5000;Nenhum
+38;Masculino;31;Doutor;7.6;7;75;6;Normal;120/80;70;8000;Nenhum
+39;Masculino;31;Doutor;7.6;7;75;6;Normal;120/80;70;8000;Nenhum
+40;Masculino;31;Doutor;7.6;7;75;6;Normal;120/80;70;8000;Nenhum
+41;Masculino;31;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+42;Masculino;31;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+43;Masculino;31;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+44;Masculino;31;Doutor;7.8;7;75;6;Normal;120/80;70;8000;Nenhum
+45;Masculino;31;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+46;Masculino;31;Doutor;7.8;7;75;6;Normal;120/80;70;8000;Nenhum
+47;Masculino;31;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+48;Masculino;31;Doutor;7.8;7;75;6;Normal;120/80;70;8000;Nenhum
+49;Masculino;31;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+50;Masculino;31;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Apn‚ia do Sono
+51;Masculino;32;Engenheiro(a);7.5;8;45;3;Normal;120/80;70;8000;Nenhum
+52;Masculino;32;Engenheiro(a);7.5;8;45;3;Normal;120/80;70;8000;Nenhum
+53;Masculino;32;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+54;Masculino;32;Doutor;7.6;7;75;6;Normal;120/80;70;8000;Nenhum
+55;Masculino;32;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+56;Masculino;32;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+57;Masculino;32;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+58;Masculino;32;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+59;Masculino;32;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+60;Masculino;32;Doutor;7.7;7;75;6;Normal;120/80;70;8000;Nenhum
+61;Masculino;32;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+62;Masculino;32;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+63;Masculino;32;Doutor;6.2;6;30;8;Normal;125/80;72;5000;Nenhum
+64;Masculino;32;Doutor;6.2;6;30;8;Normal;125/80;72;5000;Nenhum
+65;Masculino;32;Doutor;6.2;6;30;8;Normal;125/80;72;5000;Nenhum
+66;Masculino;32;Doutor;6.2;6;30;8;Normal;125/80;72;5000;Nenhum
+67;Masculino;32;Contador(a);7.2;8;50;6;Normal;118/76;68;7000;Nenhum
+68;Masculino;33;Doutor;6;6;30;8;Normal;125/80;72;5000;Ins“nia
+69;Feminino;33;Cientista;6.2;6;50;6;Sobrepeso;128/85;76;5500;Nenhum
+70;Feminino;33;Cientista;6.2;6;50;6;Sobrepeso;128/85;76;5500;Nenhum
+71;Masculino;33;Doutor;6.1;6;30;8;Normal;125/80;72;5000;Nenhum
+72;Masculino;33;Doutor;6.1;6;30;8;Normal;125/80;72;5000;Nenhum
+73;Masculino;33;Doutor;6.1;6;30;8;Normal;125/80;72;5000;Nenhum
+74;Masculino;33;Doutor;6.1;6;30;8;Normal;125/80;72;5000;Nenhum
+75;Masculino;33;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+76;Masculino;33;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+77;Masculino;33;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+78;Masculino;33;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+79;Masculino;33;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+80;Masculino;33;Doutor;6;6;30;8;Normal;125/80;72;5000;Nenhum
+81;Feminino;34;Cientista;5.8;4;32;8;Sobrepeso;131/86;81;5200;Apn‚ia do Sono
+82;Feminino;34;Cientista;5.8;4;32;8;Sobrepeso;131/86;81;5200;Apn‚ia do Sono
+83;Masculino;35;Professor(a);6.7;7;40;5;Sobrepeso;128/84;70;5600;Nenhum
+84;Masculino;35;Professor(a);6.7;7;40;5;Sobrepeso;128/84;70;5600;Nenhum
+85;Masculino;35;Engenheiro(a) de Software;7.5;8;60;5;Normal ;120/80;70;8000;Nenhum
+86;Feminino;35;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+87;Masculino;35;Engenheiro(a)(a);7.2;8;60;4;Normal;125/80;65;5000;Nenhum
+88;Masculino;35;Engenheiro(a);7.2;8;60;4;Normal;125/80;65;5000;Nenhum
+89;Masculino;35;Engenheiro(a);7.3;8;60;4;Normal;125/80;65;5000;Nenhum
+90;Masculino;35;Engenheiro(a);7.3;8;60;4;Normal;125/80;65;5000;Nenhum
+91;Masculino;35;Engenheiro(a);7.3;8;60;4;Normal;125/80;65;5000;Nenhum
+92;Masculino;35;Engenheiro(a);7.3;8;60;4;Normal;125/80;65;5000;Nenhum
+93;Masculino;35;Engenheiro(a) de Software;7.5;8;60;5;Normal;120/80;70;8000;Nenhum
+94;Masculino;35;Advogado(a);7.4;7;60;5;Obeso;135/88;84;3300;Apn‚ia do Sono
+95;Feminino;36;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Ins“nia
+96;Feminino;36;Contador(a);7.1;8;60;4;Normal;115/75;68;7000;Nenhum
+97;Feminino;36;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+98;Feminino;36;Contador(a);7.1;8;60;4;Normal;115/75;68;7000;Nenhum
+99;Feminino;36;Professor(a);7.1;8;60;4;Normal;115/75;68;7000;Nenhum
+100;Feminino;36;Professor(a);7.1;8;60;4;Normal;115/75;68;7000;Nenhum
+101;Feminino;36;Professor(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+102;Feminino;36;Professor(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+103;Feminino;36;Professor(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+104;Masculino;36;Professor(a);6.6;5;35;7;Sobrepeso;129/84;74;4800;Apn‚ia do Sono
+105;Feminino;36;Professor(a);7.2;8;60;4;Normal;115/75;68;7000;Apn‚ia do Sono
+106;Masculino;36;Professor(a);6.6;5;35;7;Sobrepeso;129/84;74;4800;Ins“nia
+107;Feminino;37;Enfermeiro(a);6.1;6;42;6;Sobrepeso;126/83;77;4200;Nenhum
+108;Masculino;37;Engenheiro(a);7.8;8;70;4;Normal;120/80;68;7000;Nenhum
+109;Masculino;37;Engenheiro(a);7.8;8;70;4;Normal;120/80;68;7000;Nenhum
+110;Masculino;37;Advogado(a);7.4;8;60;5;Normal;130/85;68;8000;Nenhum
+111;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+112;Masculino;37;Advogado(a);7.4;8;60;5;Normal;130/85;68;8000;Nenhum
+113;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+114;Masculino;37;Advogado(a);7.4;8;60;5;Normal;130/85;68;8000;Nenhum
+115;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+116;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+117;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+118;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+119;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+120;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+121;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+122;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+123;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+124;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+125;Feminino;37;Contador(a);7.2;8;60;4;Normal;115/75;68;7000;Nenhum
+126;Feminino;37;Enfermeiro(a);7.5;8;60;4;Normal;120/80;70;8000;Nenhum
+127;Masculino;38;Advogado(a);7.3;8;60;5;Normal;130/85;68;8000;Nenhum
+128;Feminino;38;Contador(a);7.1;8;60;4;Normal;115/75;68;7000;Nenhum
+129;Masculino;38;Advogado(a);7.3;8;60;5;Normal;130/85;68;8000;Nenhum
+130;Masculino;38;Advogado(a);7.3;8;60;5;Normal;130/85;68;8000;Nenhum
+131;Feminino;38;Contador(a);7.1;8;60;4;Normal;115/75;68;7000;Nenhum
+132;Masculino;38;Advogado(a);7.3;8;60;5;Normal;130/85;68;8000;Nenhum
+133;Masculino;38;Advogado(a);7.3;8;60;5;Normal;130/85;68;8000;Nenhum
+134;Feminino;38;Contador(a);7.1;8;60;4;Normal;115/75;68;7000;Nenhum
+135;Masculino;38;Advogado(a);7.3;8;60;5;Normal;130/85;68;8000;Nenhum
+136;Masculino;38;Advogado(a);7.3;8;60;5;Normal;130/85;68;8000;Nenhum
+137;Feminino;38;Contador(a);7.1;8;60;4;Normal;115/75;68;7000;Nenhum
+138;Masculino;38;Advogado(a);7.1;8;60;5;Normal;130/85;68;8000;Nenhum
+139;Feminino;38;Contador(a);7.1;8;60;4;Normal;115/75;68;7000;Nenhum
+140;Masculino;38;Advogado(a);7.1;8;60;5;Normal;130/85;68;8000;Nenhum
+141;Feminino;38;Contador(a);7.1;8;60;4;Normal;115/75;68;7000;Nenhum
+142;Masculino;38;Advogado(a);7.1;8;60;5;Normal;130/85;68;8000;Nenhum
+143;Feminino;38;Contador(a);7.1;8;60;4;Normal;115/75;68;7000;Nenhum
+144;Feminino;38;Contador(a);7.1;8;60;4;Normal;115/75;68;7000;Nenhum
+145;Masculino;38;Advogado(a);7.1;8;60;5;Normal;130/85;68;8000;Apn‚ia do Sono
+146;Feminino;38;Advogado(a);7.4;7;60;5;Obeso;135/88;84;3300;Apn‚ia do Sono
+147;Masculino;39;Advogado(a);7.2;8;60;5;Normal;130/85;68;8000;Ins“nia
+148;Masculino;39;Engenheiro(a);6.5;5;40;7;Sobrepeso;132/87;80;4000;Ins“nia
+149;Feminino;39;Advogado(a);6.9;7;50;6;Normal;128/85;75;5500;Nenhum
+150;Feminino;39;Contador(a);8;9;80;3;Normal;115/78;67;7500;Nenhum
+151;Feminino;39;Contador(a);8;9;80;3;Normal;115/78;67;7500;Nenhum
+152;Masculino;39;Advogado(a);7.2;8;60;5;Normal;130/85;68;8000;Nenhum
+153;Masculino;39;Advogado(a);7.2;8;60;5;Normal;130/85;68;8000;Nenhum
+154;Masculino;39;Advogado(a);7.2;8;60;5;Normal;130/85;68;8000;Nenhum
+155;Masculino;39;Advogado(a);7.2;8;60;5;Normal;130/85;68;8000;Nenhum
+156;Masculino;39;Advogado(a);7.2;8;60;5;Normal;130/85;68;8000;Nenhum
+157;Masculino;39;Advogado(a);7.2;8;60;5;Normal;130/85;68;8000;Nenhum
+158;Masculino;39;Advogado(a);7.2;8;60;5;Normal;130/85;68;8000;Nenhum
+159;Masculino;39;Advogado(a);7.2;8;60;5;Normal;130/85;68;8000;Nenhum
+160;Masculino;39;Advogado(a);7.2;8;60;5;Normal;130/85;68;8000;Nenhum
+161;Masculino;39;Advogado(a);7.2;8;60;5;Normal;130/85;68;8000;Nenhum
+162;Feminino;40;Contador(a);7.2;8;55;6;Normal ;119/77;73;7300;Nenhum
+163;Feminino;40;Contador(a);7.2;8;55;6;Normal;119/77;73;7300;Nenhum
+164;Masculino;40;Advogado(a);7.9;8;90;5;Normal;130/85;68;8000;Nenhum
+165;Masculino;40;Advogado(a);7.9;8;90;5;Normal;130/85;68;8000;Nenhum
+166;Masculino;41;Advogado(a);7.6;8;90;5;Normal;130/85;70;8000;Ins“nia
+167;Masculino;41;Engenheiro(a);7.3;8;70;6;Normal;121/79;72;6200;Nenhum
+168;Masculino;41;Advogado(a);7.1;7;55;6;Sobrepeso;125/82;72;6000;Nenhum
+169;Masculino;41;Advogado(a);7.1;7;55;6;Sobrepeso;125/82;72;6000;Nenhum
+170;Masculino;41;Advogado(a);7.7;8;90;5;Normal;130/85;70;8000;Nenhum
+171;Masculino;41;Advogado(a);7.7;8;90;5;Normal;130/85;70;8000;Nenhum
+172;Masculino;41;Advogado(a);7.7;8;90;5;Normal;130/85;70;8000;Nenhum
+173;Masculino;41;Advogado(a);7.7;8;90;5;Normal;130/85;70;8000;Nenhum
+174;Masculino;41;Advogado(a);7.7;8;90;5;Normal;130/85;70;8000;Nenhum
+175;Masculino;41;Advogado(a);7.6;8;90;5;Normal;130/85;70;8000;Nenhum
+176;Masculino;41;Advogado(a);7.6;8;90;5;Normal;130/85;70;8000;Nenhum
+177;Masculino;41;Advogado(a);7.6;8;90;5;Normal;130/85;70;8000;Nenhum
+178;Masculino;42;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+179;Masculino;42;Advogado(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+180;Masculino;42;Advogado(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+181;Masculino;42;Advogado(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+182;Masculino;42;Advogado(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+183;Masculino;42;Advogado(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+184;Masculino;42;Advogado(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+185;Feminino;42;Professor(a);6.8;6;45;7;Sobrepeso;130/85;78;5000;Apn‚ia do Sono
+186;Feminino;42;Professor(a);6.8;6;45;7;Sobrepeso;130/85;78;5000;Apn‚ia do Sono
+187;Feminino;43;Professor(a);6.7;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+188;Masculino;43;Vendedor(a);6.3;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+189;Feminino;43;Professor(a);6.7;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+190;Masculino;43;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+191;Feminino;43;Professor(a);6.7;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+192;Masculino;43;Vendedor(a);6.4;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+193;Masculino;43;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+194;Masculino;43;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+195;Masculino;43;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+196;Masculino;43;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+197;Masculino;43;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+198;Masculino;43;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+199;Masculino;43;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+200;Masculino;43;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+201;Masculino;43;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+202;Masculino;43;Engenheiro(a);7.8;8;90;5;Normal;130/85;70;8000;Ins“nia
+203;Masculino;43;Engenheiro(a);7.8;8;90;5;Normal;130/85;70;8000;Ins“nia
+204;Masculino;43;Engenheiro(a);6.9;6;47;7;Normal;117/76;69;6800;Nenhum
+205;Masculino;43;Engenheiro(a);7.6;8;75;4;Sobrepeso;122/80;68;6800;Nenhum
+206;Masculino;43;Engenheiro(a);7.7;8;90;5;Normal;130/85;70;8000;Nenhum
+207;Masculino;43;Engenheiro(a);7.7;8;90;5;Normal;130/85;70;8000;Nenhum
+208;Masculino;43;Engenheiro(a);7.7;8;90;5;Normal;130/85;70;8000;Nenhum
+209;Masculino;43;Engenheiro(a);7.7;8;90;5;Normal;130/85;70;8000;Nenhum
+210;Masculino;43;Engenheiro(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+211;Masculino;43;Engenheiro(a);7.7;8;90;5;Normal;130/85;70;8000;Nenhum
+212;Masculino;43;Engenheiro(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+213;Masculino;43;Engenheiro(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+214;Masculino;43;Engenheiro(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+215;Masculino;43;Engenheiro(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+216;Masculino;43;Engenheiro(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+217;Masculino;43;Engenheiro(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+218;Masculino;43;Engenheiro(a);7.8;8;90;5;Normal;130/85;70;8000;Nenhum
+219;Masculino;43;Engenheiro(a);7.8;8;90;5;Normal;130/85;70;8000;Apn‚ia do Sono
+220;Masculino;43;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Apn‚ia do Sono
+221;Feminino;44;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+222;Masculino;44;Vendedor(a);6.4;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+223;Masculino;44;Vendedor(a);6.3;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+224;Masculino;44;Vendedor(a);6.4;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+225;Feminino;44;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+226;Masculino;44;Vendedor(a);6.3;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+227;Feminino;44;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+228;Masculino;44;Vendedor(a);6.3;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+229;Feminino;44;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+230;Masculino;44;Vendedor(a);6.3;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+231;Feminino;44;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+232;Masculino;44;Vendedor(a);6.3;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+233;Feminino;44;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+234;Masculino;44;Vendedor(a);6.3;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+235;Feminino;44;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+236;Masculino;44;Vendedor(a);6.3;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+237;Masculino;44;Vendedor(a);6.4;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+238;Feminino;44;Professor(a);6.5;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+239;Masculino;44;Vendedor(a);6.3;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+240;Masculino;44;Vendedor(a);6.4;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+241;Feminino;44;Professor(a);6.5;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+242;Masculino;44;Vendedor(a);6.3;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+243;Masculino;44;Vendedor(a);6.4;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+244;Feminino;44;Professor(a);6.5;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+245;Masculino;44;Vendedor(a);6.3;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+246;Feminino;44;Professor(a);6.5;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+247;Masculino;44;Vendedor(a);6.3;6;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+248;Masculino;44;Engenheiro(a);6.8;7;45;7;Sobrepeso;130/85;78;5000;Ins“nia
+249;Masculino;44;Vendedor(a);6.4;6;45;7;Sobrepeso;130/85;72;6000;Nenhum
+250;Masculino;44;Vendedor(a);6.5;6;45;7;Sobrepeso;130/85;72;6000;Nenhum
+251;Feminino;45;Professor(a);6.8;7;30;6;Sobrepeso;135/90;65;6000;Ins“nia
+252;Feminino;45;Professor(a);6.8;7;30;6;Sobrepeso;135/90;65;6000;Ins“nia
+253;Feminino;45;Professor(a);6.5;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+254;Feminino;45;Professor(a);6.5;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+255;Feminino;45;Professor(a);6.5;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+256;Feminino;45;Professor(a);6.5;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+257;Feminino;45;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+258;Feminino;45;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+259;Feminino;45;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+260;Feminino;45;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+261;Feminino;45;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Ins“nia
+262;Feminino;45;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Nenhum
+263;Feminino;45;Professor(a);6.6;7;45;4;Sobrepeso;135/90;65;6000;Nenhum
+264;Feminino;45;Gerente;6.9;7;55;5;Sobrepeso;125/82;75;5500;Nenhum
+265;Masculino;48;Doutor;7.3;7;65;5;Obeso;142/92;83;3500;Ins“nia
+266;Feminino;48;Enfermeiro(a);5.9;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+267;Masculino;48;Doutor;7.3;7;65;5;Obeso;142/92;83;3500;Ins“nia
+268;Feminino;49;Enfermeiro(a);6.2;6;90;8;Sobrepeso;140/95;75;10000;Nenhum
+269;Feminino;49;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+270;Feminino;49;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+271;Feminino;49;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+272;Feminino;49;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+273;Feminino;49;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+274;Feminino;49;Enfermeiro(a);6.2;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+275;Feminino;49;Enfermeiro(a);6.2;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+276;Feminino;49;Enfermeiro(a);6.2;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+277;Masculino;49;Doutor;8.1;9;85;3;Obeso;139/91;86;3700;Apn‚ia do Sono
+278;Masculino;49;Doutor;8.1;9;85;3;Obeso;139/91;86;3700;Apn‚ia do Sono
+279;Feminino;50;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Ins“nia
+280;Feminino;50;Engenheiro(a);8.3;9;30;3;Normal;125/80;65;5000;Nenhum
+281;Feminino;50;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Nenhum
+282;Feminino;50;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+283;Feminino;50;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+284;Feminino;50;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+285;Feminino;50;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+286;Feminino;50;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+287;Feminino;50;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+288;Feminino;50;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+289;Feminino;50;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+290;Feminino;50;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+291;Feminino;50;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+292;Feminino;50;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+293;Feminino;50;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+294;Feminino;50;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+295;Feminino;50;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+296;Feminino;50;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+297;Feminino;50;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+298;Feminino;50;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+299;Feminino;51;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+300;Feminino;51;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+301;Feminino;51;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+302;Feminino;51;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+303;Feminino;51;Enfermeiro(a);7.1;7;55;6;Normal;125/82;72;6000;Nenhum
+304;Feminino;51;Enfermeiro(a);6;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+305;Feminino;51;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+306;Feminino;51;Enfermeiro(a);6.1;6;90;8;Sobrepeso;140/95;75;10000;Apn‚ia do Sono
+307;Feminino;52;Contador(a);6.5;7;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+308;Feminino;52;Contador(a);6.5;7;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+309;Feminino;52;Contador(a);6.6;7;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+310;Feminino;52;Contador(a);6.6;7;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+311;Feminino;52;Contador(a);6.6;7;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+312;Feminino;52;Contador(a);6.6;7;45;7;Sobrepeso;130/85;72;6000;Ins“nia
+313;Feminino;52;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+314;Feminino;52;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+315;Feminino;52;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+316;Feminino;53;Engenheiro(a);8.3;9;30;3;Normal;125/80;65;5000;Ins“nia
+317;Feminino;53;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+318;Feminino;53;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+319;Feminino;53;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+320;Feminino;53;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+321;Feminino;53;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+322;Feminino;53;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+323;Feminino;53;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+324;Feminino;53;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+325;Feminino;53;Engenheiro(a);8.3;9;30;3;Normal;125/80;65;5000;Nenhum
+326;Feminino;53;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+327;Feminino;53;Engenheiro(a);8.3;9;30;3;Normal;125/80;65;5000;Nenhum
+328;Feminino;53;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+329;Feminino;53;Engenheiro(a);8.3;9;30;3;Normal;125/80;65;5000;Nenhum
+330;Feminino;53;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+331;Feminino;53;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+332;Feminino;53;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+333;Feminino;54;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+334;Feminino;54;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+335;Feminino;54;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+336;Feminino;54;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+337;Feminino;54;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+338;Feminino;54;Engenheiro(a);8.4;9;30;3;Normal;125/80;65;5000;Nenhum
+339;Feminino;54;Engenheiro(a);8.5;9;30;3;Normal;125/80;65;5000;Nenhum
+340;Feminino;55;Enfermeiro(a);8.1;9;75;4;Sobrepeso;140/95;72;5000;Apn‚ia do Sono
+341;Feminino;55;Enfermeiro(a);8.1;9;75;4;Sobrepeso;140/95;72;5000;Apn‚ia do Sono
+342;Feminino;56;Doutor;8.2;9;90;3;Normal;118/75;65;10000;Nenhum
+343;Feminino;56;Doutor;8.2;9;90;3;Normal ;118/75;65;10000;Nenhum
+344;Feminino;57;Enfermeiro(a);8.1;9;75;3;Sobrepeso;140/95;68;7000;Nenhum
+345;Feminino;57;Enfermeiro(a);8.2;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+346;Feminino;57;Enfermeiro(a);8.2;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+347;Feminino;57;Enfermeiro(a);8.2;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+348;Feminino;57;Enfermeiro(a);8.2;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+349;Feminino;57;Enfermeiro(a);8.2;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+350;Feminino;57;Enfermeiro(a);8.1;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+351;Feminino;57;Enfermeiro(a);8.1;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+352;Feminino;57;Enfermeiro(a);8.1;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+353;Feminino;58;Enfermeiro(a);8;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+354;Feminino;58;Enfermeiro(a);8;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+355;Feminino;58;Enfermeiro(a);8;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+356;Feminino;58;Enfermeiro(a);8;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+357;Feminino;58;Enfermeiro(a);8;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+358;Feminino;58;Enfermeiro(a);8;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+359;Feminino;59;Enfermeiro(a);8;9;75;3;Sobrepeso;140/95;68;7000;Nenhum
+360;Feminino;59;Enfermeiro(a);8.1;9;75;3;Sobrepeso;140/95;68;7000;Nenhum
+361;Feminino;59;Enfermeiro(a);8.2;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+362;Feminino;59;Enfermeiro(a);8.2;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+363;Feminino;59;Enfermeiro(a);8.2;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+364;Feminino;59;Enfermeiro(a);8.2;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+365;Feminino;59;Enfermeiro(a);8;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+366;Feminino;59;Enfermeiro(a);8;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+367;Feminino;59;Enfermeiro(a);8.1;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+368;Feminino;59;Enfermeiro(a);8;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+369;Feminino;59;Enfermeiro(a);8.1;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+370;Feminino;59;Enfermeiro(a);8.1;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+371;Feminino;59;Enfermeiro(a);8;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+372;Feminino;59;Enfermeiro(a);8.1;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+373;Feminino;59;Enfermeiro(a);8.1;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
+374;Feminino;59;Enfermeiro(a);8.1;9;75;3;Sobrepeso;140/95;68;7000;Apn‚ia do Sono
